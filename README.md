@@ -1,7 +1,7 @@
 # Attention-API: German to English Transformer Translation
 
-This repository contains a **FastAPI** backend that serves a **Transformer-based German to English (de→en) translation model**.  
-The model architecture is inspired by the attention mechanism and is defined in `attention_model.py`.
+This repository contains a **FastAPI** backend that serves a custom **Transformer-based German to English (de→en) translation model** [Repo](https://github.com/kozuedoingregression/attention-is-all-you-need).  
+The model architecture is inspired by the [attention mechanism](https://arxiv.org/pdf/1706.03762) and is defined in `attention_model.py`.
 
 ---
 
